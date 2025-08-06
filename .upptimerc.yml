@@ -4,16 +4,11 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Google
-    url: https://www.google.com
+    url: https://thissitedoesnotexist.koj.co
   - name: Wikipedia
     url: https://en.wikipedia.org
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
 
 status-website:
   baseUrl: /upptime
