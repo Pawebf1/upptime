@@ -7,8 +7,8 @@ sites:
     url: https://www.google.com
   - name: Wikipedia
     url: https://en.wikipedia.org
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  # - name: Test Broken Site
+  #   url: https://thissitedoesnotexist.koj.co
 
 status-website:
   baseUrl: /upptime
