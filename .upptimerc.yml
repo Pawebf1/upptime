@@ -15,8 +15,6 @@ sites:
     url: https://github.com/
   - name: Gitlab
     url: https://about.gitlab.com/
-  - name: Reddit
-    url: https://www.reddit.com/
   # - name: Test Broken Site
   #   url: https://thissitedoesnotexist.koj.co
 
