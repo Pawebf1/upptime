@@ -5,8 +5,18 @@ repo: upptime # The name of this repository
 sites:
   - name: Google
     url: https://www.google.com
+  - name: Google Cloud
+    url: https://cloud.google.com/?hl=pl
   - name: Wikipedia
     url: https://en.wikipedia.org
+  - name: AWS
+    url: https://aws.amazon.com/
+  - name: Github
+    url: https://github.com/
+  - name: Gitlab
+    url: https://about.gitlab.com/
+  - name: Reddit
+    url: https://www.reddit.com/
   # - name: Test Broken Site
   #   url: https://thissitedoesnotexist.koj.co
 
