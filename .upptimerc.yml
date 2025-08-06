@@ -12,10 +12,12 @@ sites:
   - name: AWS
     url: https://aws.amazon.com/
   - name: Github
-    # url: https://github.com/
-    url: https://thissitedoesnotexist.koj.co
+    url: https://github.com/
+    # url: https://thissitedoesnotexist.koj.co
   - name: Gitlab
     url: https://about.gitlab.com/
+  - name: Github pages
+    url: https://pawebf1.github.io/upptime/
     # url: https://thissitedoesnotexist.koj.co
   # - name: Test Broken Site
   #   url: https://thissitedoesnotexist.koj.co
